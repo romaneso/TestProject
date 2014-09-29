@@ -4,5 +4,6 @@ public class TestClass {
 		Object o = new Object();
 		
 		System.out.println("Zweiter Commit!");
+		System.out.println("Dritter Commit!");
 	}
 }
