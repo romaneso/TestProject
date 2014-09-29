@@ -5,5 +5,7 @@ public class TestClass {
 		
 		System.out.println("Zweiter Commit!");
 		System.out.println("Dritter Commit!");
+		
+		System.out.println("Vierter Commit!");
 	}
 }
